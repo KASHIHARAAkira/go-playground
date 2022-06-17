@@ -1,5 +1,5 @@
 package calculate
 
-func calculate(n int) int {
+func Calculate(n int) int {
 	return n * n
 }
